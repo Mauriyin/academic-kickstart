@@ -18,7 +18,7 @@ organizations:
   url: "https://www.washington.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Wifi, ns-3, ML, and URLLC.
+bio: My research is wireless communication, include Wifi, ns-3, ML, and URLLC.
 
 interests:
 - Artificial Intelligence
