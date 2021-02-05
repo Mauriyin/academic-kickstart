@@ -3,7 +3,7 @@ title: "Multiplexing URLLC Traffic within eMBB Services in 5G NR: Fair Schedulin
 date: 2020-11-03
 publishDate: 
 authors: ["**Hao Yin**", "Lyutianyang Zhang", "Sumit Roy"]
-publication_types: ["1"]
+publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "IEEE Transactions on Communications"
