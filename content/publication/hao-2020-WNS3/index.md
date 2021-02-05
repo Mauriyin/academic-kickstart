@@ -2,7 +2,7 @@
 title: "Ns3-Ai: Fostering Artificial Intelligence Algorithms for Networking Research"
 date: 2020-06-09
 publishDate: 
-authors: ["** H. Yin **", "P. Liu", "K. Liu", "C. Liu", "L. Zhang", "Y. Gao", "X. Hei"]
+authors: ["H. Yin", "P. Liu", "K. Liu", "C. Liu", "L. Zhang", "Y. Gao", "X. Hei"]
 publication_types: ["1"]
 abstract: ""
 featured: false
