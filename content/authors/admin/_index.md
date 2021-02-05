@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
 - name: University of Washington
-  url: ""
+  url: "https://www.washington.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Wifi, ns-3, ML, and URLLC.
@@ -27,12 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in ECE
+  - course: PhD, Electrical and Electronics Engineering
     institution: University of Washington
-    year: 2019
-  - course: BS in EIC
+    year: 2019~now
+  - course: MS, Applied Mathematics
+    institution: University of Washington
+    year: 2021~now
+  - course: BSc in Electronic Information Engineering
     institution: Huazhong University of Science and Technology
-    year: 2015
+    year: 2015~2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'Hao:haoyin@uw.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/hao-yin-2367b0173/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=KnEC9NAAAAAJ&hl=en
@@ -64,4 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Hao Yin received his B.S. degree from the Huazhong University of Science and Technology of China in 2019. He is currently pursuing a PhD in FunLab of Electrical Engineering at University of Washington. His research interests include wireless networks, networking simulation and machine learning.
+Hao Yin received his B.S. degree from the Huazhong University of Science and Technology of China in 2019. He is currently pursuing a Ph.D. in [FunLab](https://depts.washington.edu/funlab/) of Electrical Engineering at the University of Washington, as well as an MS. in the Department of Applied Mathematics at UW. 
+
+His research interests include wireless communication (MAC layer optimization), networking simulation (ns-3) and machine learning (especially reinforcement learning and federated learning).
