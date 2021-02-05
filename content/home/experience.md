@@ -26,14 +26,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-Network simulation in ns-3, MAC scheduling
+Network simulation in ns-3, MAC scheduling, V2X communication
 
 **Network simulation in ns-3** :
 
 - Develop the ns3-ai model: A paper accepted by WNS3-2020. 
 - Wi-Fi 802.11ax Performance Evaluation and Improvement.
 
-**MAC scheduling** : A journal paper accepted by TCOM.
+**MAC scheduling** : A paper accepted by VTC 2020 fall and a journal paper accepted by TCOM.
+
+**V2X communication** : A paper accepted by VTC 2020 fall.
 
 """
 
